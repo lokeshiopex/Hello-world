@@ -1,3 +1,0 @@
-#! finding files with .c
-find /var -name "*.c" -print
-
